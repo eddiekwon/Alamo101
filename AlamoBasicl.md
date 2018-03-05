@@ -1,12 +1,12 @@
 
 
 
-podfile contents
+podfile setup
 
 ```ruby
 use_frameworks!
 
-do 'xxxProject' target
+target 'xxxProjectName' do
   pod 'Alamofire'
 end 
 ```
