@@ -41,7 +41,7 @@ func step2(){
 
 if header info needed.
 
-```
+```swift
 
 func step4WithHeader_usingResponseString(){
     
